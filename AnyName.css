@@ -1,0 +1,48 @@
+/* Body background color */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif; 
+}
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #000000; 
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Drop shadow */
+}
+
+/* Header */
+header {
+    background-color: #169bf3; 
+    color: #ffffff; 
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    background-color: #169bf3;
+    color: #000000; 
+    padding: 6px 0;
+    text-align: center;
+}
+
+/* Main content */
+main {
+    margin-top: 20px;
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff; 
+}
+
+/* Heading 2 */
+h2 {
+    color: #ffffff; 
+}

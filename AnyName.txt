@@ -1,0 +1,11 @@
+1. JavaScript
+
+It is a programming language commonly used for creating interactive effects within web browsers.
+
+2. Node.js
+
+It is a JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser, typically on the server-side.
+
+3. ECMAScript 6 or ES6
+
+It is an updated version of JavaScript that brought in new features and made coding easier. It introduced things like arrow functions, template literals, classes, and let/const, making it simpler for developers to write and maintain their code.
